@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: fly-io-cloud-provider-$NEXT_MINOR_VERSION
